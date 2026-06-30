@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Meerab Asif 👋
 
-<!--
-**fa-2023-bscs-501-design/fa-2023-bscs-501-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+I am passionate about cybersecurity, network security, and secure software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Skills
+
+- Python
+- Network Security
+- Secure Coding
+- Packet Analysis
+- Git & GitHub
+- Flask
+
+
+## 🚀 CodeAlpha Cybersecurity Projects
+
+### 🔹 Basic Network Sniffer
+A Python-based tool to capture and analyze network packets.
+
+### 🔹 Phishing Awareness Training
+An awareness project explaining phishing attacks, social engineering, and prevention techniques.
+
+### 🔹 Secure Coding Review
+Security analysis of a vulnerable application with implemented fixes.
+
+### 🔹 Network Intrusion Detection System
+A Python-based IDS that monitors traffic and generates security alerts.
+
+
+## 🛠️ Tools
+
+Python | Flask | Scapy | Wireshark | GitHub
+
+
+## 📫 Connect
+
+GitHub: @fa-2023-bscs-501-design
