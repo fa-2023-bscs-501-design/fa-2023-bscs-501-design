@@ -36,7 +36,7 @@ Cybersecurity awareness project about phishing attacks and prevention.
 
 - LinkedIn: https://www.linkedin.com/in/meerab-asif-3b5689411?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Portfolio: https://vercel.com/fa-2023-bscs-501-designs-projects/meerab-portfolio
-- Github: 
+- Github: https://github.com/fa-2023-bscs-501-design
 
 ---
 
