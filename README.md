@@ -1,41 +1,44 @@
 # Hi, I'm Meerab Asif 👋
 
-## Cybersecurity Enthusiast | Python Developer
+🎓 Computer Science Student  
+💻 Frontend Developer  
+🚀 Passionate about Web Development, AI, and modern technologies
 
-I am passionate about cybersecurity, network security, and secure software development.
+---
 
-## 🛡️ Skills
+## 🛠️ Skills
 
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Next.js
+- Tailwind CSS
 - Python
-- Network Security
-- Secure Coding
-- Packet Analysis
 - Git & GitHub
-- Flask
 
+---
 
-## 🚀 CodeAlpha Cybersecurity Projects
+## 🚀 Projects
 
-### 🔹 Basic Network Sniffer
-A Python-based tool to capture and analyze network packets.
+### 🌐 Portfolio Website
+Modern portfolio built using Next.js, React, Tailwind CSS and Framer Motion.
 
-### 🔹 Phishing Awareness Training
-An awareness project explaining phishing attacks, social engineering, and prevention techniques.
+### 🔍 Network Sniffer
+Python-based packet analyzer for monitoring network traffic.
 
-### 🔹 Secure Coding Review
-Security analysis of a vulnerable application with implemented fixes.
+### 🛡️ Phishing Awareness Training
+Cybersecurity awareness project about phishing attacks and prevention.
 
-### 🔹 Network Intrusion Detection System
-A Python-based IDS that monitors traffic and generates security alerts.
+---
 
+## 📫 Connect With Me
 
-## 🛠️ Tools
+- LinkedIn: https://www.linkedin.com/in/meerab-asif-3b5689411?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Portfolio: https://vercel.com/fa-2023-bscs-501-designs-projects/meerab-portfolio
+- Github: 
 
-Python | Flask | Scapy | Wireshark | GitHub
+---
 
+⭐ Thanks for visiting my profile!
 
-## 📫 Connect
-
-GitHub: @fa-2023-bscs-501-design
-
-Vercel: https://vercel.com/fa-2023-bscs-501-designs-projects/meerab-portfolio
