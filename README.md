@@ -1,44 +1,67 @@
-# Hi, I'm Meerab Asif 👋
+# Hi 👋, I'm Meerab Asif
 
-🎓 Computer Science Student  
-💻 Frontend Developer  
-🚀 Passionate about Web Development, AI, and modern technologies
+### Frontend Developer | React & Next.js Enthusiast | Computer Science Student
 
----
-
-## 🛠️ Skills
-
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Python
-- Git & GitHub
+I'm a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies and continuously improving my development skills by working on real-world projects.
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
+
+* 💻 Frontend Developer specializing in **Next.js**, **React**, and **Tailwind CSS**
+* 🌱 Currently expanding my knowledge in modern web development and Python
+* 🎯 Interested in creating clean, responsive, and interactive user interfaces
+* 📚 Computer Science student passionate about continuous learning
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** HTML, CSS, JavaScript, Python
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🌟 Featured Projects
 
 ### 🌐 Portfolio Website
-Modern portfolio built using Next.js, React, Tailwind CSS and Framer Motion.
 
-### 🔍 Network Sniffer
-Python-based packet analyzer for monitoring network traffic.
+A modern and responsive portfolio built with Next.js and Tailwind CSS.
 
-### 🛡️ Phishing Awareness Training
-Cybersecurity awareness project about phishing attacks and prevention.
+### 🛡️ Network Sniffer
+
+A Python-based network packet analyzer for monitoring and analyzing network traffic.
+
+### 🔐 Phishing Awareness Training
+
+A cybersecurity awareness project explaining phishing attacks and prevention techniques.
+
+---
+
+## 🌐 Portfolio
+
+**Website:**
+https://meerab-portfolio-six.vercel.app/
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/meerab-asif-3b5689411?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- Portfolio: https://vercel.com/fa-2023-bscs-501-designs-projects/meerab-portfolio
-- Github: https://github.com/fa-2023-bscs-501-design
+* **Email:** [meerabasif04@gmail.com](mailto:meerabasif04@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/meerab-asif-3b5689411
+* **GitHub:** https://github.com/fa-2023-bscs-501-design
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fa-2023-bscs-501-design\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fa-2023-bscs-501-design\&layout=compact)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.
