@@ -76,11 +76,11 @@ Explore my projects and development journey:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fa-2023-bscs-501-design&show_icons=true)
+Explore my latest repositories, contributions, and development projects on GitHub.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fa-2023-bscs-501-design&layout=compact)
+**[View My GitHub Profile](https://github.com/fa-2023-bscs-501-design)
 
 ---
 
