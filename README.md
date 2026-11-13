@@ -2,66 +2,86 @@
 
 ### Frontend Developer | React & Next.js Enthusiast | Computer Science Student
 
-I'm a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies and continuously improving my development skills by working on real-world projects.
+I'm a Computer Science student and Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy learning new technologies and turning ideas into practical projects.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Frontend Developer specializing in **Next.js**, **React**, and **Tailwind CSS**
-* 🌱 Currently expanding my knowledge in modern web development and Python
-* 🎯 Interested in creating clean, responsive, and interactive user interfaces
-* 📚 Computer Science student passionate about continuous learning
+- 💻 Frontend Developer interested in React, Next.js, and Tailwind CSS
+- 🌱 Continuously learning modern web development and Python
+- 🎯 Interested in creating clean, responsive, and interactive user interfaces
+- 📚 Building practical projects to strengthen my development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Languages:** HTML, CSS, JavaScript, Python
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Tools:** Git, GitHub, VS Code
+**Languages:** HTML, CSS, JavaScript, Python
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** MongoDB
+
+**Tools:** Git, GitHub, VS Code, Figma (Basic)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🌐 Portfolio Website
+### 🍕 PizzaCraft – Pizza Delivery System
 
-A modern and responsive portfolio built with Next.js and Tailwind CSS.
+A full-stack pizza delivery application featuring user authentication, order management, an admin dashboard, inventory management, and demo payment functionality.
 
-### 🛡️ Network Sniffer
+**Tech:** React, Node.js, Express.js, MongoDB, JavaScript
 
-A Python-based network packet analyzer for monitoring and analyzing network traffic.
+- [Live Demo](https://pizzacraft-client-czo5qcgyt-fa-2023-bscs-501-designs-projects.vercel.app/)
+- [GitHub Repository](https://github.com/fa-2023-bscs-501-design/OIBSIP/tree/main/WebDev-L3-Task1-PizzaDelivery)
 
-### 🔐 Phishing Awareness Training
+### 🧮 Calculator
 
-A cybersecurity awareness project explaining phishing attacks and prevention techniques.
+A responsive calculator built to perform basic mathematical operations with a simple user interface.
+
+**Tech:** HTML, CSS, JavaScript
+
+- [Live Demo](https://oibsip-calculator-ruddy.vercel.app/)
+- [GitHub Repository](https://github.com/fa-2023-bscs-501-design/OIBSIP/commit/7f80c5672108793b48490543303d6739c9822f4f)
+
+### ✅ To-Do App
+
+A task management application that helps users organize daily activities and manage their tasks.
+
+**Tech:** HTML, CSS, JavaScript
+
+- [Live Demo](https://oibsip-todo.vercel.app/)
+- [GitHub Repository](https://github.com/fa-2023-bscs-501-design/OIBSIP/commit/52393f70ba9fa746ca59234a8622b87c6b676550)
 
 ---
 
 ## 🌐 Portfolio
 
-**Website:**
-https://meerab-portfolio-six.vercel.app/
+Explore my projects and development journey:
+
+**[Visit My Portfolio](https://meerab-portfolio-six.vercel.app/)**
 
 ---
 
 ## 📫 Connect With Me
 
-* **Email:** [meerabasif04@gmail.com](mailto:meerabasif04@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/meerab-asif-3b5689411
-* **GitHub:** https://github.com/fa-2023-bscs-501-design
+- **Email:** [meerabasif04@gmail.com](mailto:meerabasif04@gmail.com)
+- **LinkedIn:** [Meerab Asif](https://www.linkedin.com/in/meerab-asif-3b5689411)
+- **GitHub:** [fa-2023-bscs-501-design](https://github.com/fa-2023-bscs-501-design)
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fa-2023-bscs-501-design\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fa-2023-bscs-501-design&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fa-2023-bscs-501-design\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fa-2023-bscs-501-design&layout=compact)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
